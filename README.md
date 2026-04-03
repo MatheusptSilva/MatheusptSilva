@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Matheus 👋
 
+📊 Data Analytics | Business Intelligence
+
 ##
 
 <div style="display: flex; gap: 10px; align-items: center;">
