@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus 👋🏽
 
-Transformo dados em decisões — atuo na área de Core Platform & Quality da **Getnet (Grupo Santander)**, com foco em dashboards, qualidade de dados e automação de análises.
+Transformo dados em decisões atuo na área de Core Platform & Quality da **Getnet (Grupo Santander)**, com foco em dashboards, qualidade de dados e automação de análises.
 
 <br>
 
