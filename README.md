@@ -14,6 +14,7 @@ Transformando dados em decisões — atuo na área de Core Platform & Quality da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
 </div>
 
+<br>
 
 <div>
 <a href="https://www.linkedin.com/in/matheus-pts/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
