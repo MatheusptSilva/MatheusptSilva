@@ -11,7 +11,7 @@ Transformando dados em decisões — atuo na área de Core Platform & Quality da
   <img src="https://img.icons8.com/fluency/48/database.png" height="40"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" height="40"/>
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
-  <img src="https://img.icons8.com/color/48/cloud-computing.png" height="40"/>
+  <img src="https://img.icons8.com/fluency/48/cloud.png" height="40"/>
 </div>
 
 <br>
